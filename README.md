@@ -1,5 +1,5 @@
 # CourseWork
-#JavaScript Coursework
+JavaScript Coursework
 #Switch
 switch (new Date().getDay()) {
   case 6:
