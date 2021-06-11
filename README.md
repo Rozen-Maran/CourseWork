@@ -1,5 +1,6 @@
 # CourseWork
 JavaScript Coursework
+
 #Switch
 switch (new Date().getDay()) {
   case 6:
